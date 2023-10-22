@@ -10,10 +10,6 @@ Welcome to the README for the FrontendPractice.com Project - Abstract Clone! In 
 
 FrontendPractice.com Project - Abstract Clone is an exercise in frontend web development. We are replicating the user interface and user experience of the Abstract website to practice our HTML, CSS, and JavaScript skills. This project is not meant for production use and is solely for educational purposes.
 
-##  Check the video
-
-[![Watch the video](abstarct.png)](video.webm)
-
 
 ## Getting Started
 
